@@ -2,13 +2,14 @@
 ! Checksum: sVVpufncmWuzEWkKisHUOw
 ! Version: 201603051303
 ! Expires: 1 days
-! Title: facebook sidebar blocker
+! Title: facebook onion sidebar blocker
 ! Homepage: http://facebook.adblockplus.me/
 ! Right sidebar
 ! Various suggestions/recommendations
 facebookcorewwwi.onion##.home_right_column .ego_column.egoOrganicColumn
 facebookcorewwwi.onion###globalContainer .ego_column._8_9.egoOrganicColumn
 facebookcorewwwi.onion###rightCol .ego_column.egoOrganicColumn
+facebookcorewwwi.onion###pagelet_ego_pane
 ! "Trending" box
 facebookcorewwwi.onion###pagelet_trending_tags_and_topics
 ! "Featured Music Services" (Music feed)
