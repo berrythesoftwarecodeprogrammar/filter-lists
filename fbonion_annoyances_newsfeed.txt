@@ -2,7 +2,7 @@
 ! Checksum: +zCnlHSf047mnq4RpLrf1Q
 ! Version: 201603051303
 ! Expires: 1 days
-! Title: facebook news feed annoyances blocker
+! Title: facebook onion news feed annoyances blocker
 ! Homepage: http://facebook.adblockplus.me/
 ! In news feed
 ! "Upcoming Events" and "Most Shared On Page X"
