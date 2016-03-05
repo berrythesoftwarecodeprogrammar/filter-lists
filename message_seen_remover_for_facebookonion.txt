@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: aEsWDp3bms0rdvwO+8tKIw
 ! Version: 201603051303
-! Title: Message "seen" Remover for Facebook
+! Title: Message "seen" Remover for Facebook onion
 ! Last modified: 05 Mar 2016 13:03 UTC
 ! Expires: 4 days (update frequency)
 !
