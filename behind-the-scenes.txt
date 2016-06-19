@@ -1,0 +1,13 @@
+! Title: Behind-the-scene privacy filters
+! Expires: 1 days
+! Issue tracker: https://github.com/metaphoricgirrafe/behind-the-scenes-filters/issues
+
+! twitter.com
+||twitter.com/i/jot$xmlhttprequest,domain=behind-the-scene
+
+! youtube.com
+||s.youtube.com/api/stats/watchtime$image,domain=behind-the-scene
+||s.youtube.com/api/stats/qoe$image,domain=behind-the-scene
+
+! google.com
+||plus.google.com/u/0/_/diagnostics/$domain=behind-the-scene
